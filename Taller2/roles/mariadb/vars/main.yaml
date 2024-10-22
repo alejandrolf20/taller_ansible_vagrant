@@ -1,0 +1,3 @@
+nombre_base_datos: wordpress
+nombre_usuario: wp_user
+mysql_password: wp_password
